@@ -24,7 +24,7 @@ var Translations = {
 
     "PreparedForText": "Preparado para",
 
-    "CopyrightText": "Copyright " + Utils.getFullYear() + " Client Name",
+    "CopyrightText": "Copyright " + Utils.getFullYear() + " Pitney Bowes",
     "PoweredByFooterText": "Powered by",
     "HelpFooterText": "Ayuda",
     "PrivacyPolicyFooterText": "Política de privacidad",
