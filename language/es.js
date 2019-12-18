@@ -46,7 +46,7 @@ var Translations = {
      */
     "ChapterSettings": [
         {
-            "label": "EngageOne Communicate Introduction",
+            "label": "EngageOne Converse Introduction",
             "states": [
                 {
                     "cardId": "START",
