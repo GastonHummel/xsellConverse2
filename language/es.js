@@ -33,51 +33,12 @@ var Translations = {
      * See en.js for details
      */
     "CtaButtonSettings": {
-        "button1": {
-            "card": "7b480c70",
-            "label": "Botón 1",
-            "icon": "contact"
-        },
-        "button2": {
-            "card": "7b480c70",
-            "label": "Botón 2",
-            "icon": "website"
-        },
-        "button3": {
-            "card": "7b480c70",
-            "label": "Botón 3",
-            "icon": "email"
-        },
-        "button4": {
-            "card": "7b480c70",
-            "label": "Botón 4",
-            "icon": "save"
-        },
-        "button5": {
-            "url": "http://example.com/es",
-            "label": "Botón 5",
-            "icon": "share"
-        }
     },
 
     /*
      * See en.js for details
      */
     "PromoSettings": {
-        "promo1": {
-            "trackingName": "promo1",
-            "url": "http://example.com/es",
-            "label": "Promo (Top)",
-            "desktopImage": "./images/promo_portrait.png",
-            "mobileImage": "./images/promo_landscape.png"
-        },
-        "promo2": {
-            "trackingName": "promo2",
-            "url": "http://example.com/es",
-            "label": "Promo (Bottom)",
-            "desktopImage": "./images/promo_portrait.png",
-            "mobileImage": "./images/promo_landscape.png"
-        }
     },
 
     /*
@@ -85,33 +46,11 @@ var Translations = {
      */
     "ChapterSettings": [
         {
-            "label": "Introducción",
+            "label": "EngageOne Communicate Introduction",
             "states": [
                 {
                     "cardId": "START",
-                    "width": 20
-                }
-            ]
-        },
-        {
-            "label": "Su Cuenta",
-            "states": [
-                {
-                    "cardId": "4ca807ee",
-                    "width": 20
-                },
-                {
-                    "cardId": "fd0d8f44",
-                    "width": 20
-                }
-            ]
-        },
-        {
-            "label": "Gracias",
-            "states": [
-                {
-                    "cardId": "75e4f764",
-                    "width": 40
+                    "width": 100
                 }
             ]
         }
