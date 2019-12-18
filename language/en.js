@@ -114,29 +114,11 @@ var Translations = {
      */
     "ChapterSettings": [
         {
-            "label": "Introduction",
+            "label": "EngageOne Communicate Intro",
             "states": [
                 {
                     "cardId": "START",
-                    "width": 20
-                }
-            ]
-        },
-        {
-            "label": "Your Account",
-            "states": [
-                {
-                    "cardId": "a760ecec",
-                    "width": 40
-                }
-            ]
-        },
-        {
-            "label": "Thank You",
-            "states": [
-                {
-                    "cardId": "ee5b6001",
-                    "width": 20
+                    "width": 100
                 }
             ]
         }
